@@ -1,8 +1,8 @@
-![logo] (https://github.com/shahbazal0m/Shahbaz-Alam/blob/main/My%20GitHub%20Bannner.png)
+![masterHead](https://github.com/shahbazal0m/Shahbaz-Alam/blob/main/My%20GitHub%20Bannner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shahbaz Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<imag align="right" alt="coding" width="400px" src=" https://user-images.githubusercontent...">
+<imag align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazal0m" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shahbazalam4842@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences Fresher
 
 - ⚡ Fun fact **I am Funny**
 
