@@ -1,3 +1,4 @@
+![logo] (https://github.com/shahbazal0m/Shahbaz-Alam/blob/main/My%20GitHub%20Bannner.png)
 <h1 align="center">Hi 👋, I'm Shahbaz Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
