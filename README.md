@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development Courses (By:- CodeHelp Love Babbar)**
 
-- 💬 Ask me about **HTML| CSS| JAVA-Script| React.js, etc.**
+- 💬 Ask me about **HTML | CSS | JAVA-Script | React.js | mongoDB & etc.**
 
 - 📫 How to reach me **shahbazalam4842@gmail.com**
 
 - 📄 Know about my experiences Fresher
 
-- ⚡ Fun fact **I am Funny** 😅
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
