@@ -1,6 +1,6 @@
 ![masterHead](https://github.com/shahbazal0m/Shahbaz-Alam/blob/main/My%20GitHub%20Bannner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shahbaz Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <imag align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences Fresher
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny** 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
